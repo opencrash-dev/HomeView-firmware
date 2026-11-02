@@ -1,0 +1,13 @@
+.DS_Store
+.build/
+.swiftpm/
+.cache/
+.config/
+.security/
+__pycache__/
+*.pyc
+*.aea
+*.ipsw
+analysis
+build/
+key.txt
